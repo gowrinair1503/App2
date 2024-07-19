@@ -112,7 +112,7 @@ if __name__ == '__main__':
     main()
 
 # After running this code successfully, you can save the model for future use.
-joblib.dump(model, 'model.pkl')
+joblib.dump(model, 'model2.pkl')
 
 
 # In[ ]:
